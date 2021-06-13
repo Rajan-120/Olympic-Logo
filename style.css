@@ -1,0 +1,14 @@
+html{
+    text-align: center;
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#canvas1{
+    margin-top: 200px;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: rgb(50, 172, 141);
+    background-color: white;
+    opacity: 0.9;
+}
